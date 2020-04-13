@@ -1,0 +1,2 @@
+I noticed that after using the csfr_form and navigating to the the csfr.html file the form will automatically work.
+I do not notice the hidden value because I am not retrieving it anywhere in csfr.html

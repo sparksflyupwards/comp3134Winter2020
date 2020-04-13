@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title> TITLE </title>
+    </head>
+
+    <body>
+        <h1> TITLE </h1>
+        <form method="POST" id="xssForm" action="csfr.php">
+
+                <input type="text" name="username" id="txt" value="host" required>
+           
+                <input class="submit" type="submit" name='submit' value="SUBMIT" style="width: 200px;">
+           
+                <div id="msg" placeholder="" name="message" id="needs">
+                </div>
+          
+                       
+        </form>
+        
+        <script>
+            document.getElementById("xssForm").addEventListener("click", function(event){
+            event.preventDefault()
+            document.getElementById("msg").innerHTML = document.getElementById("txt").value;
+            });
+
+           
+
+  
+        </script>
+    </body>
+</html>

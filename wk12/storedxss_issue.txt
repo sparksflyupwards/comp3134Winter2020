@@ -1,0 +1,1 @@
+the script is added to the head tag but it is not run because the page has already loaded so the javascript does nothing!
