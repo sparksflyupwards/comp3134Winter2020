@@ -1,0 +1,71 @@
+Whois Record for YouTube.com
+How does this work?
+ Domain Profile
+Registrant Org	Google LLC
+Registrant Country	us
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+IANA ID: 292
+URL: http://www.markmonitor.com
+Whois Server: whois.markmonitor.com
+
+(p)
+Registrar Status	clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited
+Dates	5,540 days old
+Created on 2005-02-14
+Expires on 2021-02-14
+Updated on 2020-01-14
+
+
+Whois Record for Google.com
+How does this work?
+ Domain Profile
+Registrant Org	Google LLC
+Registrant Country	us
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+IANA ID: 292
+URL: http://www.markmonitor.com
+Whois Server: whois.markmonitor.com
+
+(p)
+Registrar Status	clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited
+Dates	8,249 days old
+Created on 1997-09-15
+Expires on 2028-09-13
+Updated on 2019-09-09
+
+
+Whois Record for go.com
+Important Dates
+Expires On2021-01-08
+Registered On1998-01-09
+Updated On2019-11-25
+Name Servers
+orns01.dig.com68.71.223.14
+orns02.dig.com68.71.223.15
+sens01.dig.com139.104.186.13
+sens02.dig.com139.104.186.14
+
+Whois record for apple.com
+Important Dates
+Expires On2021-02-20
+Registered On1987-02-19
+Updated On2019-08-19
+Name Servers
+a.ns.apple.com17.253.200.1
+b.ns.apple.com17.253.207.1
+c.ns.apple.com204.19.119.1
+d.ns.apple.com204.26.57.1
+
+Whois record for twitter.comImportant Dates
+Expires On2021-01-21
+Registered On2000-01-21
+Updated On2020-01-17
+Name Servers
+a.r06.twtrdns.net205.251.192.179
+b.r06.twtrdns.net205.251.196.198
+c.r06.twtrdns.net205.251.194.151
+d.r06.twtrdns.net205.251.199.195
+d01-01.ns.twtrdns.net208.78.70.34
+d01-02.ns.twtrdns.net204.13.250.34
+NS3.P34.DYNECT.NET208.78.71.34
+NS4.P34.DYNECT.NET204.13.251.34
