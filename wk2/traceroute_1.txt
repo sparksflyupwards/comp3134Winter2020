@@ -1,0 +1,19 @@
+traceroute facebook.com
+traceroute to facebook.com (31.13.80.36), 64 hops max, 52 byte packets
+ 1  hitronhub.home (192.168.0.1)  4.877 ms  3.571 ms  3.422 ms
+ 2  * * *
+ 3  8084-dgw02.wlfdle.rmgt.net.rogers.com (67.231.220.245)  23.251 ms  13.576 ms  14.452 ms
+ 4  0-5-0-8-cgw01.bloor.rmgt.net.rogers.com (209.148.233.181)  35.410 ms
+    0-15-0-9-cgw01.bloor.rmgt.net.rogers.com (209.148.235.121)  14.045 ms
+    0-15-0-8-cgw01.bloor.rmgt.net.rogers.com (209.148.235.117)  17.709 ms
+ 5  209.148.235.210 (209.148.235.210)  15.905 ms  20.851 ms  16.870 ms
+ 6  ae8.pr02.yyz1.tfbnw.net (157.240.70.180)  33.070 ms
+    ae8.pr01.yyz1.tfbnw.net (157.240.70.178)  17.275 ms
+    ae8.pr02.yyz1.tfbnw.net (157.240.70.180)  22.883 ms
+ 7  po101.psw01.yyz1.tfbnw.net (157.240.41.147)  11.981 ms
+    po101.psw02.yyz1.tfbnw.net (157.240.41.149)  15.517 ms
+    po101.psw03.yyz1.tfbnw.net (157.240.41.151)  14.382 ms
+ 8  173.252.67.17 (173.252.67.17)  15.969 ms
+    173.252.67.115 (173.252.67.115)  12.799 ms
+    173.252.67.111 (173.252.67.111)  17.596 ms
+ 9  edge-star-mini-shv-01-yyz1.facebook.com (31.13.80.36)  18.321 ms  18.979 ms  12.562 ms
