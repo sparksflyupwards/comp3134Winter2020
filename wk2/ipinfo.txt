@@ -1,0 +1,14 @@
+google.com
+216.58.193.78
+
+en.wikipedia.org
+yna.wikimedia.org./208.80.154.224
+
+amazon.com
+mazon.com./205.251.242.103
+
+facebook.com
+157.240.3.35
+
+youtube.com
+172.217.3.174
