@@ -1,0 +1,20 @@
+What is the definition of server port?
+Ports exist at the electronic and software level and they are an endpoint where a machine on a network can communicate with other machines on the network.
+What is server port range?
+0 to 65535
+
+How many bits does number above represent?
+it is represented as a 16-bit integer
+
+State 10 common server ports
+1	TCPMUX
+5	RJE
+7	ECHO
+18	MSP
+20	FTP Data
+21	FTP Control
+22 	SSH 
+23	Telnet
+25	SMTP
+53 	DNS
+80	HTTP
