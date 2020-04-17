@@ -1,0 +1,12 @@
+ping 18.191.131.252 -w 6
+
+Pinging 18.191.131.252 with 32 bytes of data:
+Reply from 18.191.131.252: bytes=32 time=18ms TTL=52
+Reply from 18.191.131.252: bytes=32 time=19ms TTL=52
+Reply from 18.191.131.252: bytes=32 time=18ms TTL=52
+Reply from 18.191.131.252: bytes=32 time=19ms TTL=52
+
+Ping statistics for 18.191.131.252:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 18ms, Maximum = 19ms, Average = 18ms
